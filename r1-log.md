@@ -45,3 +45,8 @@ Did tons of JS regex challenges on #freeCodeCamp.
 Lucky to had similar problems to solve before in #Python3.
 Also finished a small-scale coding project at work.
 Apart from Christmas and family time, it seems to be a month full of coding.
+
+### R1D9
+Finished Regex and Debugging on FCC, even started Data structures.
+End of Regex was challenging.
+Started Hungarian translation of #100DaysOfCode.
